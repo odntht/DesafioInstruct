@@ -13,7 +13,7 @@ Utilizando um endpoint informado pela empresa, foi criado uma lista de cards com
   - Website
   - Endereço
 
-Também foi solicitado fazer uma espécie de filtro com o segmento final do e-mail dos usuários, utilizar APENAS CSS puro ou Sass e no caso de JS qualquer biblioteca ou JS puro.
+Também foi solicitado fazer uma espécie de filtro com o segmento final do e-mail dos usuários (domínio), utilizar APENAS CSS puro ou Sass e no caso de JS qualquer biblioteca ou JS puro.
 
 
 Para usar este site, basta realizar o download dos arquivos em "Clone or Download" em https://github.com/odntht/DesafioInstruct, selecionar "Download ZIP", descompactar o arquivo baixado e abrir o index.html.
