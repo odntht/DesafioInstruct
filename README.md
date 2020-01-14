@@ -18,4 +18,6 @@ Também foi solicitado fazer uma espécie de filtro com o segmento final do e-ma
 
 Para usar este site, basta realizar o download dos arquivos em "Clone or Download" em https://github.com/odntht/DesafioInstruct, selecionar "Download ZIP", descompactar o arquivo baixado e abrir o index.html.
 
+Para visualizar os outros campos além do nome, basta clicar no cartão que ele "virará" e exibirá todas as informações solicitadas.
+
 Tudo foi feito utilizando HTML e CSS puros e JS com um pouco de jQuery.
