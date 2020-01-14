@@ -9,27 +9,18 @@
     <link rel="stylesheet" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
     <link rel="stylesheet" href="index.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="index.js"></script>
+
 
 </head>
 
 <body>
     <header>
         <div class="topnav">
-            <input onchange="filter()" onkeyup="this.onchange();" onpaste="this.onchange();" oninput="this.onchange();"
-                type="text" placeholder="Search.." />
+            <input id="search" type="text" placeholder="Search.." />
         </div>
     </header>
     <main>
-
-        - Nome
-        - Username
-        - Email
-        - Telefone
-        - Website
-        - Endereço
-
-        <div id="teste"></div>
+        <div id="cards"></div>
     </main>
     <footer>
         &copy; Fernando Rodrigues Chaves Cavalcante
@@ -37,5 +28,6 @@
 
 </body>
 
+<script src="index.js"></script>
 
 </html>
